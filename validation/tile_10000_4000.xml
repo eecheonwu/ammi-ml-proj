@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Training_data</folder>
+	<filename>tile_10000_4000.tif</filename>
+	<path>/home/emmanuel/AMMI_Project/Datasets/DATA/Training_data/tile_10000_4000.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ongoing Construction</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>5</ymin>
+			<xmax>323</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ongoing Construction</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>374</ymin>
+			<xmax>269</xmax>
+			<ymax>1151</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>House</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1294</xmin>
+			<ymin>1778</ymin>
+			<xmax>1886</xmax>
+			<ymax>2000</ymax>
+		</bndbox>
+	</object>
+</annotation>
