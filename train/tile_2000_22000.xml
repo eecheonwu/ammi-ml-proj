@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Training_data</folder>
+	<folder>TrainingSet</folder>
 	<filename>tile_2000_22000.tif</filename>
-	<path>/home/emmanuel/AMMI_Project/Datasets/DATA/Training_data/tile_2000_22000.tif</path>
+	<path>/home/emmanuel/AMMI_Project/data/TrainingSet/tile_2000_22000.tif</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>built-up area</name>
+		<name>Built-up area</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
