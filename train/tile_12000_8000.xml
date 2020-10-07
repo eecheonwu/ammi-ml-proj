@@ -108,7 +108,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Built_up area</name>
+		<name>Built-up area</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
