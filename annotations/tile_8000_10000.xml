@@ -1,0 +1,86 @@
+<annotation>
+	<folder>TrainingSet</folder>
+	<filename>tile_8000_10000.tif</filename>
+	<path>/home/emmanuel/AMMI_Project/data/TrainingSet/tile_8000_10000.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>House</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>268</ymin>
+			<xmax>382</xmax>
+			<ymax>951</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Water Storage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1221</xmin>
+			<ymin>988</ymin>
+			<xmax>1313</xmax>
+			<ymax>1078</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Water Storage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1328</xmin>
+			<ymin>617</ymin>
+			<xmax>1436</xmax>
+			<ymax>782</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Water Storage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1357</xmin>
+			<ymin>492</ymin>
+			<xmax>1450</xmax>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Water Storage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1803</xmin>
+			<ymin>222</ymin>
+			<xmax>1986</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Water Storage</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1903</xmin>
+			<ymin>459</ymin>
+			<xmax>2000</xmax>
+			<ymax>567</ymax>
+		</bndbox>
+	</object>
+</annotation>
