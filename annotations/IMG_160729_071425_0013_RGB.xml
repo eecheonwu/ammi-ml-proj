@@ -1,26 +1,26 @@
 <annotation>
 	<folder>test</folder>
-	<filename>tile_30000_10000.tif</filename>
-	<path>/home/emmanuel/ml-data/test/tile_30000_10000.tif</path>
+	<filename>IMG_160729_071425_0013_RGB.JPG</filename>
+	<path>/home/emmanuel/ml-data/test/IMG_160729_071425_0013_RGB.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2000</width>
-		<height>2000</height>
+		<width>4608</width>
+		<height>3456</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Ongoing Construction</name>
+		<name>House</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>94</xmin>
-			<ymin>1317</ymin>
-			<xmax>338</xmax>
-			<ymax>1549</ymax>
+			<xmin>88</xmin>
+			<ymin>1373</ymin>
+			<xmax>1079</xmax>
+			<ymax>2017</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>103</xmin>
-			<ymin>953</ymin>
-			<xmax>901</xmax>
-			<ymax>1321</ymax>
+			<xmin>40</xmin>
+			<ymin>2269</ymin>
+			<xmax>801</xmax>
+			<ymax>2730</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,46 +41,46 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>200</xmin>
-			<ymin>13</ymin>
-			<xmax>1267</xmax>
-			<ymax>953</ymax>
+			<xmin>18</xmin>
+			<ymin>2812</ymin>
+			<xmax>631</xmax>
+			<ymax>3404</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>House</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3392</xmin>
+			<ymin>1643</ymin>
+			<xmax>4071</xmax>
+			<ymax>2121</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>House</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2371</xmin>
+			<ymin>2686</ymin>
+			<xmax>4014</xmax>
+			<ymax>3447</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Built-up area</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1698</xmin>
-			<ymin>1</ymin>
-			<xmax>1944</xmax>
-			<ymax>119</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Water Storage</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1669</xmin>
-			<ymin>511</ymin>
-			<xmax>1775</xmax>
-			<ymax>613</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Water Storage</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1632</xmin>
-			<ymin>1294</ymin>
-			<xmax>1738</xmax>
-			<ymax>1403</ymax>
+			<xmin>53</xmin>
+			<ymin>1295</ymin>
+			<xmax>4384</xmax>
+			<ymax>3456</ymax>
 		</bndbox>
 	</object>
 </annotation>

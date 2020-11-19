@@ -1,13 +1,13 @@
 <annotation>
 	<folder>test</folder>
-	<filename>tile_30000_8000.tif</filename>
-	<path>/home/emmanuel/ml-data/test/tile_30000_8000.tif</path>
+	<filename>IMG_160729_071414_0011_RGB.JPG</filename>
+	<path>/home/emmanuel/ml-data/test/IMG_160729_071414_0011_RGB.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2000</width>
-		<height>2000</height>
+		<width>4608</width>
+		<height>3456</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>146</xmin>
-			<ymin>240</ymin>
-			<xmax>634</xmax>
-			<ymax>486</ymax>
+			<xmin>2336</xmin>
+			<ymin>1256</ymin>
+			<xmax>3962</xmax>
+			<ymax>1895</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,34 +29,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>396</xmin>
-			<ymin>649</ymin>
-			<xmax>834</xmax>
-			<ymax>1097</ymax>
+			<xmin>2445</xmin>
+			<ymin>2504</ymin>
+			<xmax>3171</xmax>
+			<ymax>3104</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>House</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>678</xmin>
-			<ymin>1269</ymin>
-			<xmax>1935</xmax>
-			<ymax>2000</ymax>
+			<xmin>1345</xmin>
+			<ymin>1991</ymin>
+			<xmax>1845</xmax>
+			<ymax>2269</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Built-up area</name>
+		<name>House</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>117</xmin>
-			<ymin>192</ymin>
-			<xmax>1982</xmax>
-			<ymax>2000</ymax>
+			<xmin>1923</xmin>
+			<ymin>2512</ymin>
+			<xmax>2127</xmax>
+			<ymax>2951</ymax>
 		</bndbox>
 	</object>
 </annotation>
